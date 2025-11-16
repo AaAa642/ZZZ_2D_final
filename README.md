@@ -4,7 +4,7 @@
 - 然后，非常感谢B站up主[**终焉苍龙**](https://space.bilibili.com/7054977)的[展示视频](https://www.bilibili.com/video/BV16x43zEEej/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3cd75142b2fcb51c7056448c81846ce3)，我使用Pr软件截取其中角色MOD星见雅的关键帧，并配合Ps软件以及开源软件aseprite完成了对角色模型的构造；
 - 再次，需要指出的是，本游戏目前仍处于初级阶段，未来将会进一步更新完善...
 
-##游戏操作玩法
+## 游戏操作玩法
 玩家初始生命：10；<br>
 Boss初始生命：12；<br>
 每次普攻获取能量20，喧响值20;<br>
